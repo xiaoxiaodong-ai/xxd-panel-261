@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 261"
+  short_description: "蜡笔记忆：上半保留原照，下半收成彩铅蜡笔的小尺度记忆和负空间"
+  default_prompt: "Use $xxd-panel-261 to transform my photograph following the complete canonical source brief."
